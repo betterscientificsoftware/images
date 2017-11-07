@@ -38,10 +38,10 @@ At any point you can enter the following tag to call up an image:
 ```
 
 #### Notes: 
-* You need replace filename.jpg with the appropriate file that's been uploaded to the repository (name.format)
+* You need replace filename.jpg with the appropriate file that's been uploaded to the repository (name.format).
 * The class='page lightbox' accommodates a wide set of image shapes and allows user to enlarge the image to full screen. Always use 'page lightbox' for vertical images.
 * If your horizontal image is under 750 px wide, you can subsititute class='page' to prevent resizing. 
-* If you are entering a logo or headshot, you can substitute class='logo' to scale appropriately
+* If you are entering a logo or headshot, you can substitute class='logo' to scale appropriately.
 * If you are using either class='page' or class='logo' be sure to add a 
 ```
 <br> 
@@ -49,7 +49,7 @@ At any point you can enter the following tag to call up an image:
 tag after the preceeding text and before the image to ensure adequate separation between the two
 
 #### Do not:
-* Place an image without entering a deck (this is the first introductory sentence or paragraph of your copy) By including a deck this ensures the images are placed below the prerequisites. Not doing so "breaks" the page.
+* Place an image without entering a deck (this is the first introductory sentence or paragraph of your copy). By including a deck this ensures the images are placed below the prerequisites. Not doing so "breaks" the page.
 
 ### Exceptions
 #### Blog post images
