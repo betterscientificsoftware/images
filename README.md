@@ -1,5 +1,7 @@
 # images
-Repository for BSSW image files
+This is the Repository for BSSW image files. Below are instructions for getting your images into the site. 
+
+Note that you can always place an image into the site from any location on the web, but drawing images from the images repo and assigning the proper class for an image ensures it displays consistent with other images in the site. 
 
 ### File format, file size, and resolution
 Only upload .jpgs, .pngs, .gifs, or .pdfs. If you are working with another file format convert to one of these. For this use an image resizing tool such as Photoshop, Apple Preview, Snagit, Gimp, etc. 
