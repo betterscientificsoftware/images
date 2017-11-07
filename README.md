@@ -17,7 +17,7 @@ Pixel size is different than the file size and is indicated by pixel width x pix
 An image with a pixel size less than 750 px on its largest dimension is considered under-res'ed, attempt to find a higher resolution (excludes logos)
 
 ### Uploading an image to the repository
-1. Go to https://github.com/betterscientificsoftware/images (you are here)
+1. Go to https://github.com/betterscientificsoftware/images (hint: you are here)
 2. Select Upload Files button above and to right of file listing
 3. On new screen, drag image to the area identified and they will be uploaded
 
@@ -33,7 +33,9 @@ Articles are presented as resources, resource rules apply
 
 ### How to place an image on a page
 At any point you can enter the following tag to call up an image:
+```
 <img src='https://github.com/betterscientificsoftware/images/raw/master/filename.jpg' class='page lightbox' />
+```
 
 #### Notes: 
 * You need replace filename.jpg with the appropriate file that's been uploaded to the repository (name.format)
@@ -57,5 +59,6 @@ These are a special case. Enter the code below substituting your filename at the
 
 #### PDF Files
 These are addressed as a text link and follow the formatting below. 
+```
 [WhatIs doc](https://github.com/betterscientificsoftware/images/raw/master/filename.pdf "What is Good Documentation?")
-
+```
