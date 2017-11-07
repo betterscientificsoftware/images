@@ -25,13 +25,13 @@ An image with a pixel size less than 750 px on its largest dimension is consider
 
 ### Where/when to place an image on a page
 #### Resources 
-The inclusion of images in the text area is intended to better explain the concept expressed in the resource - diagrams, data viz, nothing frivolous 
+The inclusion of images in the text area is intended to better explain the concept expressed in the resource -- diagrams, data viz --  nothing frivolous.
 #### Blog posts
-A hero image is allowed, hero of top item it's displayed on blog landing page. Hero images should contain no bold text, incidental text is OK.
+A hero image is allowed but not reqiured for blog posts. The hero of the top blog item will be displayed on blog landing page. Hero images should contain no bold text, incidental text (in diagrams, for instance) is OK.
 #### Events 
-Inclusion of logos and speaker images in the text area is OK, but the point is to pass users on to the official event page 
+Inclusion of logos and speaker images in the text area is OK, but the point of these pages is to give some detail and then pass users on to the official event page.
 #### Articles 
-Articles are presented as resources, resource rules apply
+Articles are presented as resources, resource rules apply.
 
 ### How to place an image on a page
 At any point you can enter the following tag to call up an image:
