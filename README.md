@@ -21,11 +21,19 @@ An image with a pixel size less than 750 px on its largest dimension is consider
 
 ### Image Class Options
 
-Classes control how your image will appear on a page. The following classes should address each need. To see how they are placed into code, see "How to place an image on the page" below. Exceptions are included at the bottom of this document.
-
-class='page' (example to come)
-class='logo' (example to come)
-class='page lightbox' (example to come)
+Classes control how your image will appear on a page. The following classes should address each need. To see how they are placed into code, see "How to place an image on the page" below. Special cases for Blog post images and PDFs are included at the bottom of this document.
+```
+class='page' 
+```
+(example to come)
+```
+class='logo' 
+```
+(example to come)
+```
+class='page lightbox' 
+```
+(example to come)
 
 ### Uploading an image to the repository
 1. Go to https://github.com/betterscientificsoftware/images (hint: you are here).
@@ -62,7 +70,7 @@ tag after the preceeding text and before the image to ensure adequate separation
 #### Do not:
 * Place an image without entering a deck (this is the first introductory sentence or paragraph of your copy). By including a deck this ensures the images are placed below the prerequisites. Not doing so "breaks" the page.
 
-### Exceptions
+### Images: Special cases
 #### Blog post images
 These are a special case. Enter the code below substituting your filename at the end of the tag.
 
