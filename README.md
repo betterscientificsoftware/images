@@ -5,10 +5,8 @@ Note that you can place an image from any location on the web, but drawing image
 
 ### File format, file size, and resolution
 
-#### File Format 
 Upload only .jpgs, .pngs, .gifs, or .pdfs. If you are working with another file format, be sure to convert to one of these. Image resizing tools can be used, such as Photoshop, Apple Preview, Snagit, Gimp, etc. 
 
-#### File size
 Before adding an image, please pay careful attention to the file size and the pixel size. 
 
 A file size above 10MB should be considered too large for upload to image repository. If you have an image this large to upload, please resize to a more manageable size. Problems may be introduced with such large images in the repository. 
