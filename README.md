@@ -4,8 +4,11 @@ This is the Repository for BSSw image files. Below are instructions for getting 
 Note that you can place an image from any location on the web, but drawing images from the images repo and assigning the proper class for an image ensures it will display consistently with other images in the site. 
 
 ### File format, file size, and resolution
+
+#### File Format 
 Upload only .jpgs, .pngs, .gifs, or .pdfs. If you are working with another file format, be sure to convert to one of these. Image resizing tools can be used, such as Photoshop, Apple Preview, Snagit, Gimp, etc. 
 
+#### File size
 Before adding an image, please pay careful attention to the file size and the pixel size. 
 
 A file size above 10MB should be considered too large for upload to image repository. If you have an image this large to upload, please resize to a more manageable size. Problems may be introduced with such large images in the repository. 
@@ -17,6 +20,14 @@ Pixel size is different than the file size and is indicated by pixel width x pix
 * On PC click the Details tab
 
 An image with a pixel size less than 750 px on its largest dimension is considered under-resolved; please attempt to find a higher resolution (excludes logos)
+
+### Image Class Options
+
+Classes control how your image will appear on a page. The following classes should address each need. To see how they are placed into code, see "How to place an image on the page" below. Exceptions are included at the bottom of this document.
+
+class='page' (example to come)
+class='logo' (example to come)
+class='page lightbox' (example to come)
 
 ### Uploading an image to the repository
 1. Go to https://github.com/betterscientificsoftware/images (hint: you are here).
