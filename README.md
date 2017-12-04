@@ -5,11 +5,11 @@ Note that you can place an image from any location on the web, but drawing image
 
 ### File format, file size, and resolution
 
-Upload only .jpgs, .pngs, .gifs, or .pdfs. If you are working with another file format, be sure to convert to one of these. Image resizing tools can be used, such as Photoshop, Apple Preview, Snagit, Gimp, etc. 
+Upload only .jpgs, .pngs, .gifs, or .pdfs. If you are working with another file format, be sure to convert to one of these. Image resizing tools can be used, such as Photoshop, Apple Preview, [Gimp](https://www.gimp.org/downloads/), [Darktable](http://www.darktable.org), etc. 
 
 Before adding an image, please pay careful attention to the file size and the pixel size. 
 
-A file size above 10MB should be considered too large for upload to image repository. If you have an image this large to upload, please resize to a more manageable size. Problems may be introduced with such large images in the repository. 
+A file size above 10MB should be considered too large for upload to image repository. If you have an image this large to upload, please resize to a size below 5MB. Problems may be introduced with such large images in the repository. 
 
 Pixel size is different than the file size and is indicated by pixel width x pixel height. To determine the pixel size of your image:
 * Find the location where the image is saved
@@ -17,7 +17,7 @@ Pixel size is different than the file size and is indicated by pixel width x pix
 * Choose Properties (or Get Info on Mac).
 * On PC click the Details tab
 
-An image with a pixel size less than 750 px on its largest dimension is considered under-resolved; please attempt to find a higher resolution (excludes logos)
+An image with a pixel size less than 750 px on its largest dimension is considered resolution deficient; please attempt to find a higher resolution (excludes logos)
 
 ### Image Class Options
 
