@@ -67,17 +67,17 @@ At any point you can enter the following tag to call up an image:
 ```
 tag after the preceeding text and before the image to ensure adequate separation between the two
 
-#### Do not:
-* Place an image without entering a deck (this is the first introductory sentence or paragraph of your copy). By including a deck this ensures the images are placed below the prerequisites. Not doing so "breaks" the page.
+#### Presence of a introductory text (a.k.a. a deck)
+* This is the introductory sentence or paragraph that appears in the grey hero area below the page title. The system uses the first paragraph of your body copy to populate this deck. Unless you are assigning a hero image specifically to a blog post or an article, you will want to be sure to enter a deck. This brings consistency to pages, provides readers with a brief overview of what's to come, and importantly, including a deck ensures that page images are placed below the prerequisites. Not doing so "breaks" the page. 
 
 ### Images: Special cases
-#### Blog post images
+#### Blog hero images
 These are a special case. Enter the code below substituting your filename at the end of the tag.
 
 ```
  **Hero Image:**
  
-[The debut of Better Scientific Software.]<img src='https://github.com/betterscientificsoftware/images/raw/master/filename.png' />
+- <img src='https://github.com/betterscientificsoftware/images/raw/master/filename.png' />[The debut of Better Scientific Software.]
 ```
 
 #### PDF Files
