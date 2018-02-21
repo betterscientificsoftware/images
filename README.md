@@ -1,5 +1,5 @@
 # images
-This is the Repository for BSSw image files. Below are instructions for getting your images into the site. 
+This is the repository for BSSw image files. Below are instructions for getting your images into the site. 
 
 Note that you can place an image from any location on the web, but drawing images from the images repo and assigning the proper class for an image ensures it will display consistently with other images in the site. 
 
