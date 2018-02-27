@@ -17,7 +17,7 @@ Pixel size is different than the file size and is indicated by pixel width x pix
 * Choose Properties (or Get Info on Mac).
 * On PC click the Details tab
 
-An image with a pixel size less than 750 px on its largest dimension is considered resolution deficient; please attempt to find a higher resolution (excludes logos)
+An image with a pixel size less than 1000 px on its largest dimension is considered resolution deficient; please attempt to find a higher resolution (excludes logos)
 
 ### Image Class Options
 
@@ -59,7 +59,7 @@ At any point you can enter the following tag to call up an image:
 #### Notes: 
 * You need to replace filename.jpg with the appropriate file that's been uploaded to the repository (name.format).
 * The class='page lightbox' accommodates a wide set of image shapes and allows user to enlarge the image to full screen. Always use 'page lightbox' for vertical images.
-* If your horizontal image is under 750 px wide, you can subsititute class='page' to prevent enlargement. 
+* If your horizontal image is under 1000 px wide, you can subsititute class='page' to prevent enlargement. 
 * If you are entering a logo or headshot, you can substitute class='logo' to scale appropriately.
 * If you are using either class='page' or class='logo' be sure to add a 
 ```
