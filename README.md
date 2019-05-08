@@ -56,6 +56,12 @@ At any point you can enter the following tag to call up an image:
 <img src='https://github.com/betterscientificsoftware/images/raw/master/filename.jpg' class='page lightbox' />
 ```
 
+To add caption text, place the image text in front of the image tag.
+
+```
+[Image text]<img src='https://github.com/betterscientificsoftware/images/raw/master/filename.jpg' class='page lightbox' />
+```
+
 #### Notes: 
 * You need to replace filename.jpg with the appropriate file that's been uploaded to the repository (name.format).
 * The class='page lightbox' accommodates a wide set of image shapes and allows user to enlarge the image to full screen. Always use 'page lightbox' for vertical images.
