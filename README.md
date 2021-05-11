@@ -1,3 +1,7 @@
+# NOTE: Going forward, all images should be uploaded to the bssw.io/images directory. The README.md files in bssw.io/images contains further instructions.
+
+# NOTE: This separate images repo will no longer be used and will be deleted once all the images have been transferred and all content files updated.
+
 # images
 This is the repository for BSSw image files. Below are instructions for getting your images into the site. 
 
